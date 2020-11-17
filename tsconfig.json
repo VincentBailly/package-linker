@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "es2018"
+  },
+  "files": ["./index.ts"]
+}
